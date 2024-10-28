@@ -1,0 +1,47 @@
+# Dependencies
+**/node_modules/
+**/dist/
+**/.angular/
+
+# IDEs and editors
+**/.idea/
+**/.project
+**/.classpath
+**/.c9/
+**/*.launch
+**/.settings/
+**/*.sublime-workspace
+**/.vscode/
+
+# Angular specific
+**/dist/
+**/.angular/
+**/coverage/
+**/.sass-cache/
+**/connect.lock
+**/libpeerconnection.log
+**/npm-debug.log
+**/yarn-error.log
+**/testem.log
+**/typings/
+
+# System Files
+**/.DS_Store
+**/Thumbs.db
+
+# Environment Files
+**/environments/*.js
+**/environments/*.js.map
+
+# Compiled output
+**/dist/
+**/tmp/
+**/out-tsc/
+**/bazel-out/
+
+# Misc
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
